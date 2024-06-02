@@ -9,7 +9,7 @@ Use the [python3](https://www.python.org/downloads/release/python-390/) to run s
 
 After installation python3 , you can use this command.
 ```bash
-cd /root || exit 1 && wget https://raw.githubusercontent.com/thedevopsre/nvidia-jetpack/main/checker.py && python3 /root/checker.py > output.txt
+cd /root || exit 1 && wget https://raw.githubusercontent.com/thedevopsre/nvidia-jetpack/main/checker.py && python3 /root/checker.py > /root/output.txt
 ```
 
 ## Output
